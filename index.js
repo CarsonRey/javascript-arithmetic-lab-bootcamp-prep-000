@@ -1,3 +1,5 @@
+var number = 5
+
 function add(x,y){
   return x + y;
 }
