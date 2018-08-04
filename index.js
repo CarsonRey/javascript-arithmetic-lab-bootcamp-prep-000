@@ -1,5 +1,3 @@
-
-
 function add(x,y){
   return x + y;
 }
@@ -23,3 +21,4 @@ function inc(n) {
 function dec(n){
   return n -= 1;
 }
+
